@@ -1,0 +1,390 @@
+[2025-11-01T15:00:14.272930] Received payload (39 items):
+ - com.ss.android.ugc.trill -> 28160 s
+ - com.twitter.android -> 3619 s
+ - com.whatsapp -> 3140 s
+ - com.instagram.android -> 3133 s
+ - com.miui.home -> 1616 s
+ - com.google.android.apps.docs.editors.sheets -> 1292 s
+ - com.google.android.apps.tachyon -> 1193 s
+ - com.android.chrome -> 949 s
+ - com.miui.securitycenter -> 942 s
+ - com.android.settings -> 589 s
+ - com.google.android.youtube -> 502 s
+ - com.android.chrome -> 425 s
+ - cn.wps.xiaomi.abroad.lite -> 372 s
+ - com.whatsapp -> 273 s
+ - com.miui.home -> 221 s
+ - com.android.vending -> 150 s
+ - com.ss.android.ugc.trill -> 139 s
+ - com.miui.gallery -> 113 s
+ - com.facebook.katana -> 101 s
+ - com.android.vending -> 39 s
+ - org.telegram.messenger -> 26 s
+ - com.google.android.googlequicksearchbox -> 24 s
+ - com.google.android.packageinstaller -> 17 s
+ - com.google.android.apps.wellbeing -> 16 s
+ - com.google.android.permissioncontroller -> 13 s
+ - com.miui.cleaner -> 10 s
+ - com.miui.global.packageinstaller -> 8 s
+ - com.xiaomi.account -> 8 s
+ - com.discord -> 6 s
+ - android -> 5 s
+ - com.miui.securitycenter -> 5 s
+ - com.mi.android.globalFileexplorer -> 4 s
+ - com.shopee.id -> 4 s
+ - com.google.android.gms -> 4 s
+ - com.android.systemui -> 3 s
+ - com.example.screentimemonitoring -> 3 s
+ - com.google.android.googlequicksearchbox -> 3 s
+ - com.miui.aod -> 2 s
+ - com.shopee.id -> 1 s
+
+[2025-11-01T15:05:53.121376] Received payload (39 items):
+ - com.ss.android.ugc.trill -> 28160 s
+ - com.twitter.android -> 3619 s
+ - com.whatsapp -> 3140 s
+ - com.instagram.android -> 3133 s
+ - com.miui.home -> 1900 s
+ - com.google.android.apps.docs.editors.sheets -> 1292 s
+ - com.google.android.apps.tachyon -> 1193 s
+ - com.android.chrome -> 949 s
+ - com.miui.securitycenter -> 942 s
+ - com.android.settings -> 589 s
+ - com.google.android.youtube -> 502 s
+ - com.android.chrome -> 425 s
+ - cn.wps.xiaomi.abroad.lite -> 372 s
+ - com.whatsapp -> 273 s
+ - com.miui.home -> 221 s
+ - com.android.vending -> 150 s
+ - com.ss.android.ugc.trill -> 139 s
+ - com.miui.gallery -> 113 s
+ - com.facebook.katana -> 101 s
+ - com.android.vending -> 39 s
+ - org.telegram.messenger -> 26 s
+ - com.google.android.googlequicksearchbox -> 24 s
+ - com.google.android.packageinstaller -> 17 s
+ - com.google.android.apps.wellbeing -> 16 s
+ - com.google.android.permissioncontroller -> 13 s
+ - com.miui.cleaner -> 10 s
+ - com.miui.global.packageinstaller -> 8 s
+ - com.xiaomi.account -> 8 s
+ - com.discord -> 6 s
+ - com.example.screentimemonitoring -> 5 s
+ - android -> 5 s
+ - com.miui.securitycenter -> 5 s
+ - com.mi.android.globalFileexplorer -> 4 s
+ - com.shopee.id -> 4 s
+ - com.google.android.gms -> 4 s
+ - com.android.systemui -> 3 s
+ - com.google.android.googlequicksearchbox -> 3 s
+ - com.miui.aod -> 2 s
+ - com.shopee.id -> 1 s
+
+[2025-11-01T15:06:09.382357] Received payload (39 items):
+ - com.ss.android.ugc.trill -> 28160 s
+ - com.twitter.android -> 3619 s
+ - com.whatsapp -> 3140 s
+ - com.instagram.android -> 3133 s
+ - com.miui.home -> 1901 s
+ - com.google.android.apps.docs.editors.sheets -> 1292 s
+ - com.google.android.apps.tachyon -> 1193 s
+ - com.android.chrome -> 949 s
+ - com.miui.securitycenter -> 942 s
+ - com.android.settings -> 589 s
+ - com.google.android.youtube -> 502 s
+ - com.android.chrome -> 425 s
+ - cn.wps.xiaomi.abroad.lite -> 372 s
+ - com.whatsapp -> 273 s
+ - com.miui.home -> 221 s
+ - com.android.vending -> 150 s
+ - com.ss.android.ugc.trill -> 139 s
+ - com.miui.gallery -> 113 s
+ - com.facebook.katana -> 101 s
+ - com.example.screentimemonitoring -> 74 s
+ - com.android.vending -> 39 s
+ - org.telegram.messenger -> 26 s
+ - com.google.android.googlequicksearchbox -> 24 s
+ - com.google.android.packageinstaller -> 17 s
+ - com.google.android.apps.wellbeing -> 16 s
+ - com.google.android.permissioncontroller -> 13 s
+ - com.miui.cleaner -> 10 s
+ - com.miui.global.packageinstaller -> 8 s
+ - com.xiaomi.account -> 8 s
+ - com.discord -> 6 s
+ - android -> 5 s
+ - com.miui.securitycenter -> 5 s
+ - com.mi.android.globalFileexplorer -> 4 s
+ - com.shopee.id -> 4 s
+ - com.google.android.gms -> 4 s
+ - com.android.systemui -> 3 s
+ - com.google.android.googlequicksearchbox -> 3 s
+ - com.miui.aod -> 2 s
+ - com.shopee.id -> 1 s
+
+[2025-11-01T15:07:23.008534] Received payload (39 items):
+ - com.ss.android.ugc.trill -> 28160 s
+ - com.twitter.android -> 3619 s
+ - com.whatsapp -> 3140 s
+ - com.instagram.android -> 3133 s
+ - com.miui.home -> 1913 s
+ - com.google.android.apps.docs.editors.sheets -> 1292 s
+ - com.google.android.apps.tachyon -> 1193 s
+ - com.android.chrome -> 949 s
+ - com.miui.securitycenter -> 942 s
+ - com.android.settings -> 589 s
+ - com.google.android.youtube -> 502 s
+ - com.android.chrome -> 425 s
+ - cn.wps.xiaomi.abroad.lite -> 372 s
+ - com.whatsapp -> 309 s
+ - com.miui.home -> 221 s
+ - com.android.vending -> 150 s
+ - com.ss.android.ugc.trill -> 139 s
+ - com.miui.gallery -> 113 s
+ - com.facebook.katana -> 101 s
+ - com.example.screentimemonitoring -> 98 s
+ - com.android.vending -> 39 s
+ - org.telegram.messenger -> 26 s
+ - com.google.android.googlequicksearchbox -> 24 s
+ - com.google.android.packageinstaller -> 17 s
+ - com.google.android.apps.wellbeing -> 16 s
+ - com.google.android.permissioncontroller -> 13 s
+ - com.miui.cleaner -> 10 s
+ - com.miui.global.packageinstaller -> 8 s
+ - com.xiaomi.account -> 8 s
+ - com.discord -> 6 s
+ - android -> 5 s
+ - com.miui.securitycenter -> 5 s
+ - com.mi.android.globalFileexplorer -> 4 s
+ - com.shopee.id -> 4 s
+ - com.google.android.gms -> 4 s
+ - com.android.systemui -> 3 s
+ - com.google.android.googlequicksearchbox -> 3 s
+ - com.miui.aod -> 2 s
+ - com.shopee.id -> 1 s
+
+[2025-11-01T15:07:54.511448] Received payload (39 items):
+ - com.ss.android.ugc.trill -> 28160 s
+ - com.twitter.android -> 3619 s
+ - com.whatsapp -> 3140 s
+ - com.instagram.android -> 3133 s
+ - com.miui.home -> 1916 s
+ - com.google.android.apps.docs.editors.sheets -> 1292 s
+ - com.google.android.apps.tachyon -> 1193 s
+ - com.android.chrome -> 949 s
+ - com.miui.securitycenter -> 942 s
+ - com.android.settings -> 589 s
+ - com.google.android.youtube -> 502 s
+ - com.android.chrome -> 425 s
+ - cn.wps.xiaomi.abroad.lite -> 372 s
+ - com.whatsapp -> 309 s
+ - com.miui.home -> 221 s
+ - com.android.vending -> 150 s
+ - com.ss.android.ugc.trill -> 139 s
+ - com.example.screentimemonitoring -> 124 s
+ - com.miui.gallery -> 113 s
+ - com.facebook.katana -> 101 s
+ - com.android.vending -> 39 s
+ - org.telegram.messenger -> 26 s
+ - com.google.android.googlequicksearchbox -> 24 s
+ - com.google.android.packageinstaller -> 17 s
+ - com.google.android.apps.wellbeing -> 16 s
+ - com.google.android.permissioncontroller -> 13 s
+ - com.miui.cleaner -> 10 s
+ - com.miui.global.packageinstaller -> 8 s
+ - com.xiaomi.account -> 8 s
+ - com.discord -> 6 s
+ - android -> 5 s
+ - com.miui.securitycenter -> 5 s
+ - com.mi.android.globalFileexplorer -> 4 s
+ - com.shopee.id -> 4 s
+ - com.google.android.gms -> 4 s
+ - com.android.systemui -> 3 s
+ - com.google.android.googlequicksearchbox -> 3 s
+ - com.miui.aod -> 2 s
+ - com.shopee.id -> 1 s
+
+[2025-11-01T15:08:24.858878] Received payload (39 items):
+ - com.ss.android.ugc.trill -> 28160 s
+ - com.twitter.android -> 3619 s
+ - com.whatsapp -> 3140 s
+ - com.instagram.android -> 3133 s
+ - com.miui.home -> 1918 s
+ - com.google.android.apps.docs.editors.sheets -> 1292 s
+ - com.google.android.apps.tachyon -> 1193 s
+ - com.android.chrome -> 949 s
+ - com.miui.securitycenter -> 942 s
+ - com.android.settings -> 589 s
+ - com.google.android.youtube -> 502 s
+ - com.android.chrome -> 425 s
+ - cn.wps.xiaomi.abroad.lite -> 372 s
+ - com.whatsapp -> 309 s
+ - com.miui.home -> 221 s
+ - com.android.vending -> 150 s
+ - com.example.screentimemonitoring -> 141 s
+ - com.ss.android.ugc.trill -> 139 s
+ - com.miui.gallery -> 113 s
+ - com.facebook.katana -> 101 s
+ - com.android.vending -> 39 s
+ - org.telegram.messenger -> 26 s
+ - com.google.android.googlequicksearchbox -> 24 s
+ - com.google.android.packageinstaller -> 17 s
+ - com.google.android.apps.wellbeing -> 16 s
+ - com.google.android.permissioncontroller -> 13 s
+ - com.miui.cleaner -> 10 s
+ - com.miui.global.packageinstaller -> 8 s
+ - com.xiaomi.account -> 8 s
+ - com.discord -> 6 s
+ - android -> 5 s
+ - com.miui.securitycenter -> 5 s
+ - com.mi.android.globalFileexplorer -> 4 s
+ - com.shopee.id -> 4 s
+ - com.google.android.gms -> 4 s
+ - com.android.systemui -> 3 s
+ - com.google.android.googlequicksearchbox -> 3 s
+ - com.miui.aod -> 2 s
+ - com.shopee.id -> 1 s
+
+[2025-11-01T15:13:19.410616] Received payload (31 items):
+ - com.ss.android.ugc.trill -> None s
+ - com.twitter.android -> None s
+ - com.whatsapp -> None s
+ - com.instagram.android -> None s
+ - com.miui.home -> None s
+ - com.android.chrome -> None s
+ - com.google.android.apps.docs.editors.sheets -> None s
+ - com.google.android.apps.tachyon -> None s
+ - com.miui.securitycenter -> None s
+ - com.android.settings -> None s
+ - com.google.android.youtube -> None s
+ - com.example.screentimemonitoring -> None s
+ - cn.wps.xiaomi.abroad.lite -> None s
+ - com.android.vending -> None s
+ - com.miui.gallery -> None s
+ - com.facebook.katana -> None s
+ - com.google.android.googlequicksearchbox -> None s
+ - org.telegram.messenger -> None s
+ - com.google.android.packageinstaller -> None s
+ - com.google.android.apps.wellbeing -> None s
+ - com.google.android.permissioncontroller -> None s
+ - com.miui.cleaner -> None s
+ - com.xiaomi.account -> None s
+ - com.miui.global.packageinstaller -> None s
+ - com.discord -> None s
+ - android -> None s
+ - com.shopee.id -> None s
+ - com.google.android.gms -> None s
+ - com.mi.android.globalFileexplorer -> None s
+ - com.android.systemui -> None s
+ - com.miui.aod -> None s
+
+[2025-11-01T15:16:19.010977] Received payload (31 items):
+ - com.ss.android.ugc.trill -> None s
+ - com.twitter.android -> None s
+ - com.whatsapp -> None s
+ - com.instagram.android -> None s
+ - com.miui.home -> None s
+ - com.android.chrome -> None s
+ - com.google.android.apps.docs.editors.sheets -> None s
+ - com.google.android.apps.tachyon -> None s
+ - com.miui.securitycenter -> None s
+ - com.example.screentimemonitoring -> None s
+ - com.android.settings -> None s
+ - com.google.android.youtube -> None s
+ - cn.wps.xiaomi.abroad.lite -> None s
+ - com.android.vending -> None s
+ - com.miui.gallery -> None s
+ - com.facebook.katana -> None s
+ - com.google.android.googlequicksearchbox -> None s
+ - org.telegram.messenger -> None s
+ - com.google.android.packageinstaller -> None s
+ - com.google.android.apps.wellbeing -> None s
+ - com.google.android.permissioncontroller -> None s
+ - com.miui.cleaner -> None s
+ - com.xiaomi.account -> None s
+ - com.miui.global.packageinstaller -> None s
+ - com.discord -> None s
+ - android -> None s
+ - com.shopee.id -> None s
+ - com.google.android.gms -> None s
+ - com.mi.android.globalFileexplorer -> None s
+ - com.android.systemui -> None s
+ - com.miui.aod -> None s
+
+[2025-11-01T15:18:54.668271] Received payload (31 items):
+ - com.ss.android.ugc.trill -> None s
+ - com.twitter.android -> None s
+ - com.whatsapp -> None s
+ - com.instagram.android -> None s
+ - com.miui.home -> None s
+ - com.android.chrome -> None s
+ - com.google.android.apps.docs.editors.sheets -> None s
+ - com.google.android.apps.tachyon -> None s
+ - com.miui.securitycenter -> None s
+ - com.example.screentimemonitoring -> None s
+ - com.android.settings -> None s
+ - com.google.android.youtube -> None s
+ - cn.wps.xiaomi.abroad.lite -> None s
+ - com.android.vending -> None s
+ - com.miui.gallery -> None s
+ - com.facebook.katana -> None s
+ - com.google.android.googlequicksearchbox -> None s
+ - org.telegram.messenger -> None s
+ - com.google.android.packageinstaller -> None s
+ - com.google.android.apps.wellbeing -> None s
+ - com.google.android.permissioncontroller -> None s
+ - com.miui.cleaner -> None s
+ - com.xiaomi.account -> None s
+ - com.miui.global.packageinstaller -> None s
+ - com.discord -> None s
+ - android -> None s
+ - com.shopee.id -> None s
+ - com.google.android.gms -> None s
+ - com.mi.android.globalFileexplorer -> None s
+ - com.android.systemui -> None s
+ - com.miui.aod -> None s
+
+[2025-11-01T15:21:09.266573] Received payload (31 items):
+ - com.ss.android.ugc.trill (com.ss.android.ugc.trill) -> 28299 s
+ - com.twitter.android (com.twitter.android) -> 3619 s
+ - com.whatsapp (com.whatsapp) -> 3449 s
+ - com.instagram.android (com.instagram.android) -> 3133 s
+ - System launcher (com.miui.home) -> 2141 s
+ - com.android.chrome (com.android.chrome) -> 1374 s
+ - com.google.android.apps.docs.editors.sheets (com.google.android.apps.docs.editors.sheets) -> 1292 s
+ - com.google.android.apps.tachyon (com.google.android.apps.tachyon) -> 1193 s
+ - Security (com.miui.securitycenter) -> 947 s
+ - Screentime Monitoring (com.example.screentimemonitoring) -> 916 s
+ - Settings (com.android.settings) -> 589 s
+ - com.google.android.youtube (com.google.android.youtube) -> 502 s
+ - cn.wps.xiaomi.abroad.lite (cn.wps.xiaomi.abroad.lite) -> 372 s
+ - Google Play Store (com.android.vending) -> 189 s
+ - Gallery (com.miui.gallery) -> 113 s
+ - com.facebook.katana (com.facebook.katana) -> 101 s
+ - com.google.android.googlequicksearchbox (com.google.android.googlequicksearchbox) -> 27 s
+ - org.telegram.messenger (org.telegram.messenger) -> 26 s
+ - Package installer (com.google.android.packageinstaller) -> 17 s
+ - Digital Wellbeing (com.google.android.apps.wellbeing) -> 16 s
+ - Permission controller (com.google.android.permissioncontroller) -> 13 s
+ - Cleaner (com.miui.cleaner) -> 10 s
+ - Xiaomi Account (com.xiaomi.account) -> 8 s
+ - Package installer (com.miui.global.packageinstaller) -> 8 s
+ - com.discord (com.discord) -> 6 s
+ - Android System (android) -> 5 s
+ - com.shopee.id (com.shopee.id) -> 5 s
+ - Google Play services (com.google.android.gms) -> 4 s
+ - File Manager (com.mi.android.globalFileexplorer) -> 4 s
+ - System UI (com.android.systemui) -> 3 s
+ - Always-on display and Lock screen editor (com.miui.aod) -> 2 s
+
+[2025-11-01T15:22:26.682573] Received payload (10 items):
+ - com.ss.android.ugc.trill (com.ss.android.ugc.trill) -> 28299 s
+ - com.twitter.android (com.twitter.android) -> 3619 s
+ - com.whatsapp (com.whatsapp) -> 3449 s
+ - com.instagram.android (com.instagram.android) -> 3133 s
+ - System launcher (com.miui.home) -> 2142 s
+ - com.android.chrome (com.android.chrome) -> 1374 s
+ - com.google.android.apps.docs.editors.sheets (com.google.android.apps.docs.editors.sheets) -> 1292 s
+ - com.google.android.apps.tachyon (com.google.android.apps.tachyon) -> 1193 s
+ - Screentime Monitoring (com.example.screentimemonitoring) -> 992 s
+ - Security (com.miui.securitycenter) -> 947 s
+
