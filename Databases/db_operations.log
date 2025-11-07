@@ -1,0 +1,167 @@
+Thu Nov  6 23:58:53 2025
+: DatabaseManager diinisialisasi.
+[Fri Nov  7 00:23:46 2025] DatabaseManager diinisialisasi.
+[Fri Nov  7 00:24:01 2025] DatabaseManager ditutup.
+[Fri Nov  7 00:32:14 2025] DatabaseManager diinisialisasi.
+[Fri Nov  7 00:32:22 2025] DatabaseManager ditutup.
+[Fri Nov  7 00:37:01 2025] DatabaseManager diinisialisasi.
+[Fri Nov  7 00:37:13 2025] DatabaseManager diinisialisasi.
+[Fri Nov  7 00:37:21 2025] DatabaseManager ditutup.
+[2025-11-07 00:48:08] DatabaseManager diinisialisasi.
+[2025-11-07 00:48:17] Mendaftar database.
+[2025-11-07 00:48:24] Menampilkan info database.
+[2025-11-07 00:49:27] Menggunakan database: makanan_db
+[2025-11-07 00:49:33] Menampilkan info database.
+[2025-11-07 00:49:41] Mendaftar tabel di makanan_db
+[2025-11-07 00:50:00] Memotong tabel: makanan_sehari_hari
+[2025-11-07 00:50:13] Mendeskripsikan tabel: makanan_sehari_hari
+[2025-11-07 00:50:52] Mendaftar tabel di makanan_db
+[2025-11-07 00:51:11] Mengeksekusi query: show tables
+[2025-11-07 00:52:06] Error mengeksekusi query: Commands out of sync; you can't run this command now
+[2025-11-07 00:59:58] DatabaseManager diinisialisasi.
+[2025-11-07 01:00:01] Mendaftar database.
+[2025-11-07 01:00:20] Menggunakan database: makanan_db
+[2025-11-07 01:00:23] Menampilkan seluruh data dari semua tabel di database: makanan_db
+[2025-11-07 01:00:41] Menggunakan database: makanan_db
+[2025-11-07 01:00:50] Mendaftar tabel di makanan_db
+[2025-11-07 01:01:34] Error memasukkan data: Unknown column 'sd' in 'field list'
+[2025-11-07 01:01:55] DatabaseManager ditutup.
+[2025-11-07 01:02:37] DatabaseManager diinisialisasi.
+[2025-11-07 01:03:14] Mendaftar database.
+[2025-11-07 01:03:31] Menggunakan database: makanan_db
+[2025-11-07 01:03:36] Menampilkan seluruh data dari semua tabel di database: makanan_db
+[2025-11-07 01:03:48] Menampilkan info database.
+[2025-11-07 01:04:01] Error mendeskripsikan tabel: Table 'makanan_db.makanan_db' doesn't exist
+[2025-11-07 01:08:03] Error memasukkan data: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', magelangan, "c:\Users\Abyan\Documents\VSCode) VALUES (?, ?, ?)' at line 1
+[2025-11-07 01:42:32] DatabaseManager diinisialisasi.
+[2025-11-07 01:42:35] Mendaftar database.
+[2025-11-07 01:42:53] Menggunakan database: makanan_db
+[2025-11-07 01:43:34] Memasukkan data ke tabel: makanan_sehari_hari
+[2025-11-07 01:43:50] Memilih data dari tabel: makanan_sehari_hari
+[2025-11-07 01:44:17] Menampilkan seluruh data dari semua tabel di database: makanan_db
+[2025-11-07 01:45:00] Error memasukkan data: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ', saus, s) VALUES (?, ?, ?)' at line 1
+[2025-11-07 02:06:08] DatabaseManager diinisialisasi.
+[2025-11-07 02:06:18] Mendaftar database.
+[2025-11-07 02:06:24] Menggunakan database: makanan_db
+[2025-11-07 02:06:27] Menampilkan seluruh data dari semua tabel di database: makanan_db
+[2025-11-07 02:06:42] Error insert: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '2,2) VALUES ('2','2')' at line 1
+[2025-11-07 02:26:38] DatabaseManager diinisialisasi.
+[2025-11-07 02:26:47] Mendaftar database.
+[2025-11-07 02:27:01] Menggunakan database: makanan_db
+[2025-11-07 02:27:09] Mendaftar tabel di makanan_db
+[2025-11-07 02:27:18] Error mendeskripsikan tabel: Table 'makanan_db.makanan_db' doesn't exist
+[2025-11-07 02:27:26] Mendeskripsikan tabel: makanan_sehari_hari
+[2025-11-07 02:27:34] Mendaftar tabel di makanan_db
+[2025-11-07 02:27:56] Memilih data dari tabel: makanan_sehari_hari
+[2025-11-07 02:28:23] Error insert non-interaktif (apa_aja): Table 'makanan_db.apa_aja' doesn't exist
+[2025-11-07 02:28:34] Error insert non-interaktif (2): Table 'makanan_db.2' doesn't exist
+[2025-11-07 02:28:52] Melakukan tes stres: 1 queries selesai dalam 1 ms.
+[2025-11-07 02:28:59] Mendaftar database.
+[2025-11-07 02:29:06] Menghapus database: makanan_db
+[2025-11-07 02:29:11] Mendaftar database.
+[2025-11-07 02:29:20] Menghapus database: sekolah
+[2025-11-07 02:29:23] Mendaftar database.
+[2025-11-07 02:29:35] Membuat database: Makanan_db
+[2025-11-07 02:29:42] Menggunakan database: makanan_db
+[2025-11-07 02:31:04] Error membuat tabel: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+[2025-11-07 02:33:37] Error membuat tabel: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.'minggu') not null, makanan varchar(100))' at line 1
+[2025-11-07 02:33:51] DatabaseManager ditutup.
+[2025-11-07 02:36:43] DatabaseManager diinisialisasi.
+[2025-11-07 02:36:58] Mendaftar database.
+[2025-11-07 02:37:09] Mendaftar database.
+[2025-11-07 02:37:16] Menggunakan database: makanan_db
+[2025-11-07 02:37:23] Mendaftar tabel di makanan_db
+[2025-11-07 02:38:18] Membuat tabel: makanan_harian di makanan_db
+[2025-11-07 02:38:24] Mendaftar tabel di makanan_db
+[2025-11-07 02:38:49] Insert otomatis ke tabel: makanan_harian
+[2025-11-07 02:39:08] Memilih data dari tabel: makanan_harian
+[2025-11-07 02:39:30] DatabaseManager diinisialisasi.
+[2025-11-07 02:39:41] Mendaftar database.
+[2025-11-07 02:39:49] Menggunakan database: makanan_db
+[2025-11-07 02:40:04] Memilih data dari tabel: makanan_harian
+[2025-11-07 02:40:36] Insert otomatis ke tabel: makanan_harian
+[2025-11-07 02:40:43] Memilih data dari tabel: makanan_harian
+[2025-11-07 02:41:12] Mendaftar tabel di makanan_db
+[2025-11-07 02:41:31] Mendeskripsikan tabel: makanan_harian
+[2025-11-07 02:42:56] Error mengeksekusi query: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+[2025-11-07 02:43:02] DatabaseManager ditutup.
+[2025-11-07 02:43:17] DatabaseManager diinisialisasi.
+[2025-11-07 02:43:42] Menggunakan database: perpustakaan_db
+[2025-11-07 02:43:45] Mendaftar tabel di perpustakaan_db
+[2025-11-07 02:44:04] Error memilih data: Table 'perpustakaan_db.perpustakaan' doesn't exist
+[2025-11-07 02:44:12] Mendaftar tabel di perpustakaan_db
+[2025-11-07 02:44:48] Mendaftar tabel di perpustakaan_db
+[2025-11-07 02:44:59] Mendeskripsikan tabel: anggota
+[2025-11-07 02:45:16] Memilih data dari tabel: anggota
+[2025-11-07 02:45:44] Mendaftar tabel di perpustakaan_db
+[2025-11-07 02:45:46] Mendaftar tabel di perpustakaan_db
+[2025-11-07 02:45:52] Mendaftar database.
+[2025-11-07 02:46:01] Menggunakan database: lomba_lari
+[2025-11-07 02:46:02] Mendaftar database.
+[2025-11-07 02:46:04] Mendaftar tabel di lomba_lari
+[2025-11-07 02:46:18] Memilih data dari tabel: registrasi_1nf
+[2025-11-07 02:52:38] Mendaftar database.
+[2025-11-07 02:52:46] DatabaseManager ditutup.
+[2025-11-07 02:52:55] DatabaseManager diinisialisasi.
+[2025-11-07 02:52:56] Mendaftar database.
+[2025-11-07 02:53:11] Menggunakan database: makanan_db
+[2025-11-07 02:53:15] Mendaftar tabel di makanan_db
+[2025-11-07 02:53:21] Memilih data dari tabel: makanan_harian
+[2025-11-07 02:53:59] Insert otomatis ke tabel: makanan_harian
+[2025-11-07 02:54:06] Memilih data dari tabel: makanan_harian
+[2025-11-07 02:57:24] DatabaseManager diinisialisasi.
+[2025-11-07 02:57:50] Mendaftar database.
+[2025-11-07 02:57:55] Menggunakan database: makanan_db
+[2025-11-07 02:58:00] Mendaftar tabel di makanan_db
+[2025-11-07 02:58:10] Memilih data dari tabel: makanan_harian
+[2025-11-07 02:59:06] DatabaseManager diinisialisasi.
+[2025-11-07 02:59:08] Mendaftar database.
+[2025-11-07 02:59:59] DatabaseManager diinisialisasi.
+[2025-11-07 03:00:03] DatabaseManager ditutup.
+[2025-11-07 03:03:21] DatabaseManager diinisialisasi.
+[2025-11-07 03:03:23] Mendaftar database.
+[2025-11-07 03:03:25] Mendaftar database.
+[2025-11-07 03:03:31] Menggunakan database: makanan_db
+[2025-11-07 03:03:35] Mendaftar tabel di makanan_db
+[2025-11-07 03:03:43] Memilih data dari tabel: makanan_harian
+[2025-11-07 03:04:05] Insert otomatis ke tabel: makanan_harian
+[2025-11-07 03:04:10] Memilih data dari tabel: makanan_harian
+[2025-11-07 04:06:52] DatabaseManager diinisialisasi.
+[2025-11-07 04:06:57] Mendaftar database.
+[2025-11-07 04:06:59] Mendaftar database.
+[2025-11-07 04:07:02] Mendaftar database.
+[2025-11-07 04:07:14] Menggunakan database: makanan_db
+[2025-11-07 04:07:25] Mendaftar tabel di makanan_db
+[2025-11-07 04:07:35] Error memilih data: Table 'makanan_db.makanan_db' doesn't exist
+[2025-11-07 04:07:40] Memilih data dari tabel: makanan_harian
+[2025-11-07 04:08:16] Insert otomatis ke tabel: makanan_harian
+[2025-11-07 04:08:22] Memilih data dari tabel: makanan_harian
+[2025-11-07 04:08:53] Error mendeskripsikan tabel: Table 'makanan_db.makanan_db' doesn't exist
+[2025-11-07 04:09:05] Mendeskripsikan tabel: makanan_harian
+[2025-11-07 05:08:57] DatabaseManager ditutup.
+[2025-11-07 09:12:02] DatabaseManager diinisialisasi.
+[2025-11-07 09:12:03] Mendaftar database.
+[2025-11-07 09:12:04] Mendaftar database.
+[2025-11-07 09:12:11] Mendaftar database.
+[2025-11-07 09:12:20] Menggunakan database: makanan_db
+[2025-11-07 09:12:23] Mendaftar tabel di makanan_db
+[2025-11-07 09:12:31] Mendeskripsikan tabel: makanan_harian
+[2025-11-07 09:12:54] Memilih data dari tabel: makanan_harian
+[2025-11-07 09:14:27] Memperbarui data di tabel: makanan_harian
+[2025-11-07 09:14:36] Memilih data dari tabel: makanan_harian
+[2025-11-07 09:16:22] Memperbarui data di tabel: makanan_harian
+[2025-11-07 09:16:27] Memilih data dari tabel: makanan_harian
+[2025-11-07 09:17:30] Menghapus data dari tabel: makanan_harian
+[2025-11-07 09:17:50] Memilih data dari tabel: makanan_harian
+[2025-11-07 09:28:28] Mendeskripsikan tabel: makanan_harian
+[2025-11-07 09:28:46] Mendaftar database.
+[2025-11-07 09:28:51] Mendaftar tabel di makanan_db
+[2025-11-07 09:29:53] Membuat tabel: Jenis Makanan di makanan_db
+[2025-11-07 09:29:56] Mendaftar tabel di makanan_db
+[2025-11-07 09:30:08] Mendaftar tabel di makanan_db
+[2025-11-07 09:30:21] Error mendeskripsikan tabel: Table 'makanan_db.jenis_makanan' doesn't exist
+[2025-11-07 09:30:25] Mendaftar tabel di makanan_db
+[2025-11-07 09:30:32] Mendeskripsikan tabel: jenis makanan
+[2025-11-07 09:30:59] Mendaftar database.
+[2025-11-07 09:31:23] Insert otomatis ke tabel: jenis makanan
+[2025-11-07 09:31:34] Memilih data dari tabel: jenis makanan
