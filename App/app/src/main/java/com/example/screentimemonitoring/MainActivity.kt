@@ -70,10 +70,13 @@ class MainActivity : AppCompatActivity() {
 
     private fun requestUsageAccess() {
         startActivity(Intent(Settings.ACTION_USAGE_ACCESS_SETTINGS))
-        val intent = Intent(Settings.ACTION_IGNORE_BATTERY_OPTIMIZATION_SETTINGS)
-        startActivity(intent)
 
+        val batteryIntent = Intent(Settings.ACTION_IGNORE_BATTERY_OPTIMIZATION_SETTINGS).apply {
+            data = android.net.Uri.parse("package:$packageName")
+        }
+        startActivity(batteryIntent)
     }
+
     private fun showPopupMessage(message: String) {
         runOnUiThread {
             val builder = androidx.appcompat.app.AlertDialog.Builder(this)
