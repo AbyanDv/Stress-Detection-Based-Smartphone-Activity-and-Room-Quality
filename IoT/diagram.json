@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "author": "me",
+  "editor": "wokwi",
+  "parts": [
+    {
+      "type": "board-esp32-devkit-v1",
+      "id": "esp",
+      "top": 0,
+      "left": 0,
+      "attrs": {}
+    },
+    {
+      "type": "sensor-dht22",
+      "id": "dht22",
+      "top": -100,
+      "left": 200,
+      "attrs": {}
+    },
+    {
+      "type": "sensor-mq2",
+      "id": "mq2",
+      "top": 100,
+      "left": 200,
+      "attrs": {}
+    },
+    {
+      "type": "wokwi-ssd1306",
+      "id": "oled",
+      "top": 200,
+      "left": 0,
+      "attrs": {
+        "i2cAddress": "0x3c"
+      }
+    }
+  ],
+  "connections": [
+    ["esp:TX", "$serialMonitor:RX", "green", []],
+    ["esp:RX", "$serialMonitor:TX", "green", []],
+    ["dht22:VCC", "esp:3V3", "red", ["v0"]],
+    ["dht22:GND", "esp:GND.1", "black", ["v0"]],
+    ["dht22:SDA", "esp:15", "yellow", ["v0"]],
+    ["mq2:VCC", "esp:3V3", "red", ["v0"]],
+    ["mq2:GND", "esp:GND.1", "black", ["v0"]],
+    ["mq2:AOUT", "esp:34", "orange", ["v0"]],
+    ["oled:VCC", "esp:3V3", "red", ["v0"]],
+    ["oled:GND", "esp:GND.1", "black", ["v0"]],
+    ["oled:SDA", "esp:21", "blue", ["v0"]],
+    ["oled:SCL", "esp:22", "purple", ["v0"]]
+  ],
+  "dependencies": {}
+}
